@@ -198,7 +198,7 @@ public class MinesweeperPanel extends JPanel {
 
 
     public static void main(String[] args) {
-        JFrame window = new JFrame("🗿🥶🥶Minesweeper Tough Edition🥶🥶🗿");
+        JFrame window = new JFrame("Minesweeper Pro Max");
         window.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
         window.setBounds(0, 0, WIDTH, HEIGHT + 28); // title bar is 28 pixels!
